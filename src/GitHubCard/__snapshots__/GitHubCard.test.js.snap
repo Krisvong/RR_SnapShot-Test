@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GitHubCard renders correctly 1`] = `
+<div
+  className="card"
+>
+  <img
+    alt="Profile Pic"
+    className="card-img-top"
+    src="SnackDeveloper.jpg"
+  />
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    >
+      Krisvong
+    </div>
+    <p
+      className="card-text"
+    >
+      I am learning how to be a Software Developer.
+    </p>
+  </div>
+</div>
+`;
