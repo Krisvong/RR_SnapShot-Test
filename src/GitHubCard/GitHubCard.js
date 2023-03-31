@@ -9,7 +9,7 @@ const GitHubCard = () => {
       <Card.Body>
         <Card.Title>Krisvong</Card.Title>
         <Card.Text>
-          I am learning how to be a Software Developer.
+          I am learning how to be a Software Developer,very slowly.
         </Card.Text>
       </Card.Body>
     </Card>

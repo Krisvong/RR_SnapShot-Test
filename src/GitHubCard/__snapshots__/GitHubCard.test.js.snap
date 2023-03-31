@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`GitHubCard renders correctly 1`] = `
+exports[`renders a snapshot 1`] = `
 <div
   className="card"
 >
@@ -20,7 +20,7 @@ exports[`GitHubCard renders correctly 1`] = `
     <p
       className="card-text"
     >
-      I am learning how to be a Software Developer.
+      I am learning how to be a Software Developer,very slowly.
     </p>
   </div>
 </div>
